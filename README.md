@@ -5,6 +5,9 @@ a light weight php blog system, no other frameworks, no composer dependencies
 
 数据库配置 -> src/config.php
 
+后台 `/admin/getPosts`
+前台 `/`
+
 nignx 参考配置
 ``` bash
 server {

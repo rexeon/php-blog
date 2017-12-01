@@ -2,7 +2,9 @@
 a light weight php blog system, no other frameworks, no composer dependencies
 ## usage
 表结构和示例数据 -> blog_posts.sql
+
 数据库配置 -> src/config.php
+
 nignx 参考配置
 ``` bash
 server {

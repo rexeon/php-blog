@@ -10,7 +10,7 @@ class AdminController extends BaseController {
 	}
 
 	public function markdownAction() {
-
+		unset($_SESSION['edit_post_id']);
 	}
 
 	public function blogPostAction() {
